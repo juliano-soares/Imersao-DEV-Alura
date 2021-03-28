@@ -1,4 +1,4 @@
-<div style="gap: 10;">
+<div style="gap: 10px;">
     <img src="./assets/img/aula1.png" width="150" height="250">
     <img src="./assets/img/aula2.png" width="150" height="250">
     <img src="./assets/img/aula3.png" width="150" height="250">
