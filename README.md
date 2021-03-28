@@ -1,9 +1,9 @@
-<div >
-    <img src="./assets/img/aula1.png" width="100" height="200">
-    <img src="./assets/img/aula2.png" width="100" height="200">
-    <img src="./assets/img/aula3.png" width="100" height="200">
-    <img src="./assets/img/aula4.png" width="100" height="200">
-    <img src="./assets/img/aula5.png" width="100" height="200">
+<div style="gap: 10;">
+    <img src="./assets/img/aula1.png" width="150" height="250">
+    <img src="./assets/img/aula2.png" width="150" height="250">
+    <img src="./assets/img/aula3.png" width="150" height="250">
+    <img src="./assets/img/aula4.png" width="150" height="250">
+    <img src="./assets/img/aula5.png" width="150" height="250">
 </div>
 
 #### DESAFIOS AULA 01
