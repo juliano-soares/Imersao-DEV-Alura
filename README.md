@@ -1,9 +1,13 @@
+<img src="./assets/img/aula10.png">
+
 <div style="gap: 10px;">
     <img src="./assets/img/aula1.png" width="150" height="250">
     <img src="./assets/img/aula2.png" width="150" height="250">
     <img src="./assets/img/aula3.png" width="150" height="250">
     <img src="./assets/img/aula4.png" width="150" height="250">
     <img src="./assets/img/aula5.png" width="150" height="250">
+    <img src="./assets/img/aula6.png" width="250" height="250">
+    <img src="./assets/img/aula9.png" width="250" height="250">
 </div>
 
 #### DESAFIOS AULA 01
@@ -29,16 +33,20 @@
 - [ ] Criar a função validaFilme() que faça somente a verificação que está sendo feita no if.
 
 #### DESAFIOS AULA 06
-- [ ] ---
+- [ ] Incluir uma imagem na linha de cada jogador.
+- [ ] Um botão que adiciona um novo jogador na tabela de classificação.
  
 #### DESAFIOS AULA 07
-- [ ] ---
+- [ ] Exibir a carta do jogador e da máquina na tela;
+- [ ] Adicionar uma imagem em cada carta.
 
 #### DESAFIOS AULA 08
-- [ ] ---
+- [ ] Criar novas cartas com imagens e atributos diferentes.
 
 #### DESAFIOS AULA 09
-- [ ] ---
+- [ ] Crie uma carta super trunfo invencível;
+- [ ] Altere as rodadas para a máquina jogar escolhendo um atributo;
+- [ ] Altere para que o vencedor da rodada, ganhe a carta do perdedor.
  
 #### DESAFIOS AULA 10
-- [ ] ---
+- [ ] Adicionar um link em cada linha para abrir o projeto no CodePen.
